@@ -1,1 +1,3 @@
 Archivo creadi br2
+
+Issue solucionado
